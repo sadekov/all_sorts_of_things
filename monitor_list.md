@@ -1,14 +1,14 @@
 # Выбираю монитор бл
 
-| Производитель | Модель | Диагональ | Частота | Разрешение | Стоимость |
-| --- | --- | --- | --- | ---- | --- |
-| HUAWEI | MateView GT Standard Edition | 34 | --- | ---- | 39998 |
-| Xiaomi | Mi Curved Gaming Monitor | 34 | --- | ---- | 30999 |
-| LG | 34WP65C-B | 34 | --- | ---- | 42287 |
-| Acer | XV342CKPbmiipphzx | 34 | --- | ---- | 40833 |
-| Acer | XV340CKPbmiipphzx | 34 | --- | ---- | 45244 |
-| Acer | XZ342CUPbmiiphx | 34 | --- | ---- | 44424 |
-| HP | X34 | 34 | --- | ---- | 44999 |
+| Производитель | Модель                       | Диагональ | Матрица | Частота | Разрешение | Стоимость |
+| ---           | ---                          | --- | --- | ---- | --- | --- |
+| HUAWEI        | MateView GT Standard Edition | 34  | VA  | 3440x1440 | 165 | 39998 |
+| Xiaomi        | Mi Curved Gaming Monitor     | 34  | VA  | 3440x1440 | 144 | 30999 |
+| LG            | 34WP65C-B                    | 34  | VA  | 3440x1440 | 160 | 42287 |
+| Acer          | XV342CKPbmiipphzx            | 34  | IPS | 3440x1440 | 144 | 40833 |
+| Acer          | XV340CKPbmiipphzx            | 34  | IPS | 3440x1440 | 144 | 45244 |
+| Acer          | XZ342CUPbmiiphx              | 34  | VA  | 3440x1440 | 144 | 44424 |
+| HP            | X34                          | 34  | IPS | 3440x1440 | 165 | 44999 |
 
 
 ## Ya.Market
